@@ -165,13 +165,12 @@
             });
         }
         function onDeleteClick(deleteItem) {
-            console.log(deleteItem)
             const action = confirm("Are you sure to delete?");
             if (action) {
                 onDeleteConfirm(deleteItem)
             }
         }
-        function onDeleteConfirm(deleteId) {
+        function onDeleteConfirm(deleteItem) {
             $.ajax({
                 type: "POST",
                 url: "/Home/DeleteSetting",
