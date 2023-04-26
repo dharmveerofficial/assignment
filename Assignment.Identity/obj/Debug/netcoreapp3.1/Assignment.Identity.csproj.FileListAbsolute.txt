@@ -1,0 +1,40 @@
+C:\Users\HP\Downloads\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.deps.json
+C:\Users\HP\Downloads\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\HP\Downloads\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfo.cs
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\HP\Downloads\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.deps.json
+C:\Users\HP\Downloads\New folder\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\HP\Downloads\New folder\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfo.cs
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\HP\Downloads\New folder\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.deps.json
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.AssemblyReference.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfoInputs.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfo.cs
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.CoreCompileInputs.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.pdb
+D:\New folder\Assignment\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.deps.json
+D:\New folder\Assignment\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+D:\New folder\Assignment\Assignment.Identity\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.AssemblyReference.cache
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfoInputs.cache
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.AssemblyInfo.cs
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.csproj.CoreCompileInputs.cache
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.dll
+D:\New folder\Assignment\Assignment.Identity\obj\Debug\netcoreapp3.1\Assignment.Identity.pdb

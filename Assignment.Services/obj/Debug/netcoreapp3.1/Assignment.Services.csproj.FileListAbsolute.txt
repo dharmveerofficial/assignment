@@ -1,0 +1,60 @@
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.deps.json
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.dll
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.pdb
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\HP\Downloads\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfo.cs
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CopyComplete
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.dll
+C:\Users\HP\Downloads\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.deps.json
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.dll
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfo.cs
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CopyComplete
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.dll
+C:\Users\HP\Downloads\New folder\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.deps.json
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.AssemblyReference.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfoInputs.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfo.cs
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CoreCompileInputs.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CopyComplete
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.pdb
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.deps.json
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.dll
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Services.pdb
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.dll
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+D:\New folder\Assignment\Assignment.Services\bin\Debug\netcoreapp3.1\Assignment.Identity.pdb
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.AssemblyReference.cache
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfoInputs.cache
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.AssemblyInfo.cs
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CoreCompileInputs.cache
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.csproj.CopyComplete
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.dll
+D:\New folder\Assignment\Assignment.Services\obj\Debug\netcoreapp3.1\Assignment.Services.pdb

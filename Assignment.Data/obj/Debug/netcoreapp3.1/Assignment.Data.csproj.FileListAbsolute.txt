@@ -1,0 +1,52 @@
+C:\Users\HP\Downloads\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.deps.json
+C:\Users\HP\Downloads\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.json
+C:\Users\HP\Downloads\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.dev.json
+C:\Users\HP\Downloads\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\HP\Downloads\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfo.cs
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\HP\Downloads\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.genruntimeconfig.cache
+C:\Users\HP\Downloads\New folder\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.deps.json
+C:\Users\HP\Downloads\New folder\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.json
+C:\Users\HP\Downloads\New folder\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.dev.json
+C:\Users\HP\Downloads\New folder\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\HP\Downloads\New folder\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfo.cs
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\HP\Downloads\New folder\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.genruntimeconfig.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.deps.json
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.json
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.dev.json
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.AssemblyReference.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfoInputs.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfo.cs
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.dll
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.pdb
+C:\Users\dharm\OneDrive\Desktop\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.genruntimeconfig.cache
+D:\New folder\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.deps.json
+D:\New folder\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.json
+D:\New folder\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.runtimeconfig.dev.json
+D:\New folder\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.dll
+D:\New folder\Assignment\Assignment.Data\bin\Debug\netcoreapp3.1\Assignment.Data.pdb
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.AssemblyReference.cache
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfoInputs.cache
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.AssemblyInfo.cs
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.csproj.CoreCompileInputs.cache
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.dll
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.pdb
+D:\New folder\Assignment\Assignment.Data\obj\Debug\netcoreapp3.1\Assignment.Data.genruntimeconfig.cache
