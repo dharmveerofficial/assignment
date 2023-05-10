@@ -11,13 +11,13 @@ using Newtonsoft.Json.Linq;
 
 namespace Assignment.Services.Services
 {
-    public class CRUDServices : ICRUDServices
+    public class SettingServices : ISettingServices
     {
         List<SettingViewModel> list = new List<SettingViewModel>();
         private readonly AppDbContext _dbContext;
         private readonly IMapper _mapper;
 
-        public CRUDServices(AppDbContext dbcontext, IMapper mapper)
+        public SettingServices(AppDbContext dbcontext, IMapper mapper)
         {
             _dbContext = dbcontext;
             _mapper = mapper;

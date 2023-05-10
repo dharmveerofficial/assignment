@@ -8,9 +8,9 @@ using System.Text;
 
 namespace Assignment.Services.MapperServices
 {
-    public class CRUDMapper : Profile
+    public class DTOMapper : Profile
     {
-        public CRUDMapper()
+        public DTOMapper()
         {
             CreateMap<Setting, SettingViewModel>();
         }

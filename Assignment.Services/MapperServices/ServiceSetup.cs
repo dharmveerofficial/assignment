@@ -13,6 +13,6 @@ namespace Assignment.Services.MapperServices
     {
         public static IServiceCollection ConfigureApplication(this IServiceCollection services) => services
                .AddAutoMapper(Assembly.GetExecutingAssembly())
-               .AddScoped<ICRUDServices, CRUDServices>();
+               .AddScoped<ISettingServices, SettingServices>();
     }
 }

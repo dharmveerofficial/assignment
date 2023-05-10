@@ -17,9 +17,9 @@ namespace Assignment.App.Controllers
 {
     public class HomeController :Controller
     {
-        private readonly ICRUDServices _services;
+        private readonly ISettingServices _services;
 
-        public HomeController(ICRUDServices services)
+        public HomeController(ISettingServices services)
         {
             _services = services;
         }

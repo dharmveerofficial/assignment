@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Assignment.Identity.IServices
 {
-    public interface ICRUDServices
+    public interface ISettingServices
     {
         object getSetting(dynamic obj);
         string AddSetting(SettingViewModel payload);

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JiwNyQBP63nFBjy7SJThIlIkQEY/r21YliGjceSrVdjeZ6xJfSrUrP8ZLLb7DFR/IYSkUQhlGdiPFnBO0RIQwQ==",
+  "dgSpecHash": "oApGiZIJsZbPcQk20th/gmDaV0v720Jqih411b3Cyl/I+WLB1CtVuGuHyYj/n4zRL0Xx+GTolI2i8HWh7tUq0w==",
   "success": true,
   "projectFilePath": "D:\\New folder\\Assignment\\Assignment.Identity\\Assignment.Identity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dharm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\dharm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\dharm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dharm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dharm\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\dharm\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\dharm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
